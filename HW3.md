@@ -95,7 +95,7 @@ We used cv lasso to demonstrate that green certificate effect is roughly similar
 
 Below is the histogram of the individual effect of certification on rent (in percentage term). We can see that for nearly all of the buildings, having a green rating certification will increase the rent by around 16%. The effect is roughly similar across all buildings.
 
-![](homework-group/Exercise-3/Rplot03.png)
+![](/Rplot03.png)
 
 Q2 What causes what?
 --------------------
